@@ -13,6 +13,8 @@ https://f-droid.org/packages/com.trianguloy.adnihilation/ \
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
 alt="Get it on F-Droid"
 height="80">](https://f-droid.org/packages/com.trianguloy.adnihilation/)
+Get it on "Git Hub":\
+https://github.com/TrianguloY/Adnihilation/edit/brl33/README.md/)
 
 You can use parts of this project in your own ones, create pull request, or upload modified versions of it AS LONG AS you credit me.
 
